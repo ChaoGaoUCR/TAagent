@@ -1,0 +1,29 @@
+{
+  "title": "Essay Rubric",
+  "criteria": [
+    {
+      "id": "thesis",
+      "name": "Thesis & Argument",
+      "description": "Clear thesis, well-supported argument.",
+      "max_points": 10
+    },
+    {
+      "id": "organization",
+      "name": "Organization",
+      "description": "Logical flow, coherent structure.",
+      "max_points": 10
+    },
+    {
+      "id": "evidence",
+      "name": "Evidence & Examples",
+      "description": "Uses relevant evidence and examples.",
+      "max_points": 10
+    },
+    {
+      "id": "mechanics",
+      "name": "Mechanics & Style",
+      "description": "Grammar, spelling, and academic tone.",
+      "max_points": 10
+    }
+  ]
+}
